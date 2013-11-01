@@ -288,6 +288,8 @@ background-size: cover; -webkit-background-size: cover;}
 .slide.centered .contents {width: 100%; position: absolute; left: 0; text-align: center; padding: 20% 0 0;}
 
 .slide.centered .btn {text-align: center; margin: 0 auto;}
+
+.slide #intro .contact {}
  
 /*--------------------------------------------------------*/
 /* # SHOWCASE */

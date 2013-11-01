@@ -1,5 +1,4 @@
-/* Template: FlatBook | Author: eriktailor | Version: 1.0 */
-/*--------------------------------------------------------*/
+/* Author: Dat Tran */
 
 /*--------------------------------------------------------*/
 /* # TABLE OF CONTENTS */
@@ -43,7 +42,7 @@ $(function(){
 // Back Top
 $(function(){
 	$(window).scroll(function () {
-		if ($(this).scrollTop() > 600) {
+		if ($(this).scrollTop() > 400) {
 			$('.back-top-btn').removeClass('downscaled');
 		} else {
 			$('.back-top-btn').addClass('downscaled');
